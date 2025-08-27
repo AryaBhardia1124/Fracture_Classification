@@ -15,7 +15,6 @@ The project demonstrates the complete machine learning pipeline from data prepro
 - **Custom CNN Architecture**: Implemented from scratch with configurable layers
 - **Data Augmentation**: Comprehensive augmentation techniques to improve model robustness
 - **Hyperparameter Optimization**: Automated tuning using Optuna framework
-- **Overfitting Prevention**: Batch normalization, dropout, and regularization techniques
 - **Performance Visualization**: Training and validation metrics plotting
 - **Model Comparison**: Side-by-side analysis of different model versions
 
