@@ -27,7 +27,7 @@ The project demonstrates the complete machine learning pipeline from data prepro
 
 ### Enhanced CNN Model
 - Batch normalization after each convolutional layer
-- Dropout regularization (0.5)
+- Dropout regularization
 - Improved generalization capabilities
 
 ### Hyperparameter-Optimized Model
